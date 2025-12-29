@@ -1,6 +1,6 @@
-📦 UnifiedMentor – Supply Chain Analytics Dashboard
+📦 UnifiedMentor – Supply Chain | Business Analytics
 
-🚚 End-to-End Supply Chain Intelligence
+🚚 End-to-End Supply Chain Analytics 
 Power BI | Business Analytics | Decision Support
 
 ----
